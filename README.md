@@ -19,10 +19,7 @@ Building dApps with a focus on user empowerment and accessibility.
 Creative web projects that push the boundaries of design and functionality.
 ** Reach out to me:**
 
-Email: [your email address]
-Twitter: [your Twitter handle]
-LinkedIn: [your LinkedIn profile URL]
-** Pronouns:** [your pronouns]
+Email: iamthecodemonk@gmail.com
 
 ⚡ Fun fact: I a mathmatician fascinated with vector and spaces.
 
