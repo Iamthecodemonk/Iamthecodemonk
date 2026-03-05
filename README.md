@@ -1,26 +1,57 @@
-** Hi, I'm Iamthecodemonk!**
+Hi I am the codemonk
 
-** Full-stack developer by day, blockchain explorer by night.** I craft sleek web experiences, build native Android apps, and delve into the world of secure blockchain solutions.
+Software Architect | Data Scientist | Game Developer 
+Transforming mathematical theory into scalable systems and intelligent experiences.
 
-** I'm currently fascinated by:**
+I am a Mathematician obsessed with vectors, high-dimensional spaces, and the elegance of well-structured code. I bridge the gap between heavy data processing, robust backend architecture, and immersive game mechanics.
+🛠 Technical Arsenal
 
-Building decentralized applications (dApps) that empower users and communities.
-Optimizing web performance and user experience for a seamless digital journey.
-Exploring the intersection of AI and blockchain for innovative solutions.
-** I'm always learning and expanding my horizons, currently digging into:**
+Category
 
-Advanced Solidity development for secure smart contracts.
-Machine learning fundamentals and their potential in web development.
-The latest trends and frameworks in Android app development.
-️ I'm looking to collaborate on:
+Tools & Languages
 
-Open-source projects that tackle real-world challenges with innovative tech.
-Building dApps with a focus on user empowerment and accessibility.
-Creative web projects that push the boundaries of design and functionality.
-** Reach out to me:**
+Languages
 
-Email: iamthecodemonk@gmail.com
+C++, C#, Python, SQL, PHP, JavaScript
 
-⚡ Fun fact: I a mathmatician fascinated with vector and spaces.
+Data Science & ML
 
-** Let's build something awesome together!**
+PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
+
+Game Tech
+
+Unity, HLSL Shaders, Physics Engines, Procedural Generation
+
+Architecture
+
+Microservices, REST/gRPC, Design Patterns, Database Optimization
+🧠 Current Focus Areas
+
+    Machine Learning: Leveraging vector calculus to build predictive models and neural architectures.
+
+    System Architecture: Designing high-performance backends (PHP/SQL) and scalable middleware.
+
+    Game Development (Unity/C++): Engineering custom physics and AI systems where math meets interactivity.
+
+🚀 Currently Digging Into
+
+    Deep Learning: Exploring the geometry of latent spaces in generative models.
+
+    Game Optimization: Low-level memory management in C++ and C# for Unity.
+
+    Data Engineering: Optimizing complex SQL queries for real-time data analysis.
+
+🤝 Let’s Collaborate On
+
+    Open-source ML or data-driven research projects.
+
+    Architectural Overhauls for complex, high-traffic applications.
+
+    Unity Projects that require advanced mathematics.
+
+📫 Connect with me
+
+    Email: iamthecodemonk@gmail.com
+
+    "In a world of variables, I find the constants." > As a mathematician, I don’t just see a 3D scene; I see a collection of nn-dimensional manifolds and vector transformations waiting to be optimized.
+
